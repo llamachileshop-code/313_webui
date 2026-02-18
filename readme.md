@@ -1,4 +1,5 @@
 # JarvisChat
+<img width="1248" height="987" alt="image" src="https://github.com/user-attachments/assets/0dee4674-23fa-4150-adb7-a085d06464bf" />
 
 A lightweight, self-hosted replacement for Open-WebUI designed for local hardware.
 Zero bloat. Minimal dependencies. Optimized for Python 3.13 on Debian 13 (Trixie).
